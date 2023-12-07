@@ -1,0 +1,41 @@
+#item1{
+    grid-area:one;
+
+    background-color: aqua;
+    margin:10;
+
+}
+#item2{
+    grid-area:two;
+    background-color: black;
+    margin:10;
+
+
+
+}
+#item3{
+    grid-area:three;
+    background-color: brown;
+    margin:10;
+    
+
+
+}
+
+#item4{
+    grid-area:four;
+    background-color: yellow;
+    margin:10;
+
+
+}
+Grid-container{
+    display:grid;
+    grid-template-areas:
+    ''
+    ''
+    ''
+    ''
+     ;
+
+}

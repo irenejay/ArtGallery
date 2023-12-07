@@ -1,0 +1,14 @@
+#paraid{
+    background-color: black ;
+    padding:10px;
+}
+    .paraclass{ 
+        background-color:red;
+        padding:5px
+
+    }
+
+p{
+    background-color:aqua;
+    padding:2px;
+}
